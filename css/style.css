@@ -61,6 +61,10 @@ body {
     letter-spacing: 4px
 }
 
+.textos p:nth-child(3) {
+    line-height: 1.5;
+}
+
 .money{
     font-family: 'Fraunces',sans-serif;
     display: flex;
